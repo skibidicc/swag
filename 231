@@ -182,7 +182,7 @@ do
 		name = "smallest pixel",
 		weight = "Regular",
 		style = "Normal",
-		link = "https://fishy.services/smallest_pixel-7.ttf",
+		link = "https://github.com/JuixyV2/utils/blob/main/smallest_pixel-7.ttf",
 	}) 
 	
 	function Library:Connect(Signal, Callback)
